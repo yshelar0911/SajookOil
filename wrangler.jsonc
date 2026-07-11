@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "sajookoil",
+  "compatibility_date": "2026-07-11",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "dist/sajookappui/browser"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
